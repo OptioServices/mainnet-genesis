@@ -11,7 +11,6 @@
         { "email": "kyle.mccarthy.p@gmail.com", "name": "Kyle", "address": "optio1qevr8p59w933ym59tu67p2hmn3ggtv5vfat5tu", "amount": 900000, "stake": 899000 },
         { "email": "jonw@thejonwillis.com", "name": "Jon", "address": "optio15vgna4nr5rc8fjuhe87xtjvgkyym3g7hvyfks0", "amount": 900000, "stake": 899000 },
         { "email": "jay@cjawebservices.com", "name": "Jay", "address": "optio1ze9qrtzvr9cmg0jqznde6g6ctd8qt4j02dpu7r", "amount": 80000, "stake": 79000 },
-
         { "name": "Distro Wallet", "address": "optio1anakfprpufxzcg8sfd5lflyktfre6clf0dcl88", "amount": 988670000 },
         { "name": "Distro Cold Wallet - YR 1", "address": "optio1awkperdhvvelenrjwt20g6eecy4292nqznzc4m", "amount": 14000000000 },
         { "name": "Distro Cold Wallet - YR 2", "address": "optio1td84wktft84v0lnd99kzcvcprxaan2mvs6vwnn", "amount": 7500000000 },
