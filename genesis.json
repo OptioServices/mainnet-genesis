@@ -86,76 +86,6 @@
           "pub_key": null,
           "account_number": "9",
           "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1awkperdhvvelenrjwt20g6eecy4292nqznzc4m",
-          "pub_key": null,
-          "account_number": "10",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1td84wktft84v0lnd99kzcvcprxaan2mvs6vwnn",
-          "pub_key": null,
-          "account_number": "11",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1p2yfpptwqqmd0y0amevxlwsjvsv4cd9qm6yr8e",
-          "pub_key": null,
-          "account_number": "12",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1e2ex5ttwh48ku8w65t7s3hyjlrnx6ktspv76pd",
-          "pub_key": null,
-          "account_number": "13",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1ctehktypsp08w2v5jm0a4ln946hylf57zudmmf",
-          "pub_key": null,
-          "account_number": "14",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio12x4pjtlauxayajd8zrnd9jm2838awdjntr6swk",
-          "pub_key": null,
-          "account_number": "15",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1lwqgmtmm2qz7q4f40uw8vhz6jsufdhp09s294p",
-          "pub_key": null,
-          "account_number": "16",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1s2vk6452v0f8y3gqaln2r67x5yyvftfg0cfru5",
-          "pub_key": null,
-          "account_number": "17",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1ru2ww2r6ksqs0nqc24zpautdc974nzemraeu96",
-          "pub_key": null,
-          "account_number": "18",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1a6t0n4n6t9cjsy3l9wj9uf7fqpvk0rsplkm7jh",
-          "pub_key": null,
-          "account_number": "19",
-          "sequence": "0"
         }
       ]
     },
@@ -178,29 +108,11 @@
           ]
         },
         {
-          "address": "optio1p2yfpptwqqmd0y0amevxlwsjvsv4cd9qm6yr8e",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "3750000000000000"
-            }
-          ]
-        },
-        {
           "address": "optio1ze9qrtzvr9cmg0jqznde6g6ctd8qt4j02dpu7r",
           "coins": [
             {
               "denom": "uOPT",
               "amount": "80000000000"
-            }
-          ]
-        },
-        {
-          "address": "optio1ru2ww2r6ksqs0nqc24zpautdc974nzemraeu96",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "58593750000000"
             }
           ]
         },
@@ -214,38 +126,11 @@
           ]
         },
         {
-          "address": "optio12x4pjtlauxayajd8zrnd9jm2838awdjntr6swk",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "468750000000000"
-            }
-          ]
-        },
-        {
-          "address": "optio1td84wktft84v0lnd99kzcvcprxaan2mvs6vwnn",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "7500000000000000"
-            }
-          ]
-        },
-        {
           "address": "optio10f4sp2u4qctvwc7qk7sskkgwqjqp3lgxxex3xa",
           "coins": [
             {
               "denom": "uOPT",
               "amount": "900000000000"
-            }
-          ]
-        },
-        {
-          "address": "optio1s2vk6452v0f8y3gqaln2r67x5yyvftfg0cfru5",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "117187500000000"
             }
           ]
         },
@@ -268,29 +153,11 @@
           ]
         },
         {
-          "address": "optio1ctehktypsp08w2v5jm0a4ln946hylf57zudmmf",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "937500000000000"
-            }
-          ]
-        },
-        {
           "address": "optio1cs25r53kdp4y6npyn2lgh7f753hwk7wescr3xt",
           "coins": [
             {
               "denom": "uOPT",
               "amount": "3000000000000"
-            }
-          ]
-        },
-        {
-          "address": "optio1e2ex5ttwh48ku8w65t7s3hyjlrnx6ktspv76pd",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "1875000000000000"
             }
           ]
         },
@@ -313,15 +180,6 @@
           ]
         },
         {
-          "address": "optio1awkperdhvvelenrjwt20g6eecy4292nqznzc4m",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "14000000000000000"
-            }
-          ]
-        },
-        {
           "address": "optio1anakfprpufxzcg8sfd5lflyktfre6clf0dcl88",
           "coins": [
             {
@@ -329,30 +187,12 @@
               "amount": "988670000000000"
             }
           ]
-        },
-        {
-          "address": "optio1a6t0n4n6t9cjsy3l9wj9uf7fqpvk0rsplkm7jh",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "58593750000000"
-            }
-          ]
-        },
-        {
-          "address": "optio1lwqgmtmm2qz7q4f40uw8vhz6jsufdhp09s294p",
-          "coins": [
-            {
-              "denom": "uOPT",
-              "amount": "234375000000000"
-            }
-          ]
         }
       ],
       "supply": [
         {
           "denom": "uOPT",
-          "amount": "30000000000000000"
+          "amount": "7500000000000000"
         }
       ],
       "denom_metadata": [],
