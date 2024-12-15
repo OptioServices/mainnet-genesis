@@ -82,9 +82,16 @@
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "optio1anakfprpufxzcg8sfd5lflyktfre6clf0dcl88",
+          "address": "optio103r5ejt3gqyghvyel86hs5faru55r3w9kl4dst",
           "pub_key": null,
           "account_number": "9",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "optio1u28a7gj785a4d8g9n70wqujl8xc9wh7dyj9gen",
+          "pub_key": null,
+          "account_number": "10",
           "sequence": "0"
         }
       ]
@@ -180,11 +187,20 @@
           ]
         },
         {
-          "address": "optio1anakfprpufxzcg8sfd5lflyktfre6clf0dcl88",
+          "address": "optio103r5ejt3gqyghvyel86hs5faru55r3w9kl4dst",
           "coins": [
             {
               "denom": "uOPT",
-              "amount": "7488670000000000"
+              "amount": "1488670000000000"
+            }
+          ]
+        },
+        {
+          "address": "optio1u28a7gj785a4d8g9n70wqujl8xc9wh7dyj9gen",
+          "coins": [
+            {
+              "denom": "uOPT",
+              "amount": "6000000000000000"
             }
           ]
         }
